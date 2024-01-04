@@ -1,1 +1,1 @@
-# ICT-Project--Tech-Tution-Academy
+# ICT-Semester-Project--Tech-Tution-Academy
